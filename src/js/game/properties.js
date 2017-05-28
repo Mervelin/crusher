@@ -1,8 +1,6 @@
-var npmProperties = require('../../../package.json');
-
 module.exports = {
   title: 'Crusher',
-  description: npmProperties.description,
+  description: 'super crusher',
   port: 3017,
   liveReloadPort: 3018,
   mute: false,
