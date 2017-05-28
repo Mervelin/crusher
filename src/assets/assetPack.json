@@ -1,0 +1,43 @@
+{ 
+    "level1": [
+        {
+            "type": "image",
+            "key": "bg",
+            "url": "assets/images/smasherBG.jpg",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "particle1",
+            "url": "assets/images/comet_particle1.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "particle2",
+            "url": "assets/images/comet_particle2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "comet",
+            "url": "assets/images/comet.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "asteroid",
+            "url": "assets/images/asteroid.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "fg",
+            "url": "assets/images/smasherForeground.png",
+            "overwrite": false
+        }
+    ],
+    "meta": {
+        "version": "1.0"
+    }
+}
